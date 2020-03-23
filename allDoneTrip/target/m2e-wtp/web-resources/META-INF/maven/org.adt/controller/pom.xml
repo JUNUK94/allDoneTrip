@@ -166,7 +166,7 @@
 			<artifactId>ojdbc7</artifactId>
 			<version>12.1.0.2</version>
 		</dependency>
-
+		<!-- 폼파일 왜 안되는건데 -->
 	</dependencies>
 	<build>
 		<plugins>
