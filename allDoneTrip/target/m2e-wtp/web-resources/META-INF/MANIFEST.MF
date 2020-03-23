@@ -1,18 +1,5 @@
-<<<<<<< HEAD
 Manifest-Version: 1.0
-Built-By: aphotosis
-Build-Jdk: 13.0.2
-Created-By: Maven Integration for Eclipse
-
-=======
-Manifest-Version: 1.0
-<<<<<<< HEAD
 Built-By: 0158s
 Build-Jdk: 1.8.0_231
-=======
-Built-By: water
-Build-Jdk: 1.8.0_241
->>>>>>> 5124c58c084241a10f6d45a152a2dcb973ca5d54
 Created-By: Maven Integration for Eclipse
 
->>>>>>> b3172edefd8824677e82fc230bfbd416d4e83ba4
