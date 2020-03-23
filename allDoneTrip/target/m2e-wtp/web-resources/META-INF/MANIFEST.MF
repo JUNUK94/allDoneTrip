@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: water
 Build-Jdk: 1.8.0_241
@@ -6,11 +7,14 @@ Created-By: Maven Integration for Eclipse
 
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> junuk
 Manifest-Version: 1.0
-Built-By: aphotosis
-Build-Jdk: 13.0.2
+Built-By: junuk
+Build-Jdk: 11.0.6
 Created-By: Maven Integration for Eclipse
 
+<<<<<<< HEAD
 =======
 Manifest-Version: 1.0
 <<<<<<< HEAD
@@ -24,3 +28,5 @@ Created-By: Maven Integration for Eclipse
 
 >>>>>>> b3172edefd8824677e82fc230bfbd416d4e83ba4
 >>>>>>> d4ae60ec48e02efb04bedee501157a3930d032d4
+=======
+>>>>>>> junuk
