@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: aphotosis
 Build-Jdk: 13.0.2
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Built-By: anne
+Build-Jdk: 13.0.1
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> b3172edefd8824677e82fc230bfbd416d4e83ba4
