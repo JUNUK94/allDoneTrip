@@ -6,10 +6,13 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello !  
 </h1>
-
+<br>
+<h1>
+	ALL DONE TRIP IS HERE
+</h1>
 <P>  The time on the server is ${serverTime}. </P>
-<P>FSDFSDFSFSDF</P>
+
 </body>
 </html>
